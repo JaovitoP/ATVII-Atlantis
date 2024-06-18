@@ -4,7 +4,7 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Atividade 2
+## Atividade 2
 "O desenvolvimento do primeiro MVP do sistema Atlantis está incompleto e isto desagradou
 muito você, que decidiu cobrar da equipe de desenvolvimento uma versão melhorada, com mais
 funcionalidades. Depois de muito esforço e duas sprints uma nova versão foi entregue. Nesta
