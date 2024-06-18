@@ -24,7 +24,7 @@ A funcionalidades que devem ser implementadas são:
 | Atividades | Status    |
 |-------------|-------------|
 | [Lista 1](https://github.com/JaovitoP/ATVI-Atlantis)| Concluído ✅ |
-| [Lista 1](https://github.com/JaovitoP/ATVI-Atlantis)| Concluído ✅ |
-| [Lista 1](https://github.com/JaovitoP/ATVI-Atlantis)| Concluído ✅ |
-| [Lista 1](https://github.com/JaovitoP/ATVI-Atlantis)| Concluído ✅ |
-| [Lista 5](https://github.com/JaovitoP/ATVV-Autobots)| Em andamento 🚧 |
+| [Lista 2](https://github.com/JaovitoP/ATVII-Atlantis)| Concluído ✅ |
+| [Lista 3](https://github.com/JaovitoP/ATVIII-Atlantis)| Concluído ✅ |
+| [Lista 4](https://github.com/JaovitoP/ATVIV-Atlantis)| Concluído ✅ |
+| [Lista 5](https://github.com/JaovitoP/ATVV-Atlantis)| Em andamento 🚧 |
